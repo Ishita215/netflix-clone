@@ -22,20 +22,28 @@ Practice real-world UI cloning
 netflix-clone/
 │
 ├── index.html         # Main HTML structure
+
 ├── style.css          # All styling and layout
+
 ├── script.js          # UI interactivity (e.g. sliders)
+
 └── Images/            # Images and media files
     └── assets/
 
 Getting Started
 --> You can simply download the zip file from the download section, once completed unzip the file and open it in your vs code.
+
 No installations, dependencies, or setup required — it’s fully static and works out of the box.
 
 Technologies Used:
+
 1)Html
+
 2)CSS
+
 3)JavaScript
 
 Acknowledgements
 Inspired by the design of Netflix.
+
 This project is for educational and portfolio purposes only. All images and references belong to their respective owners.
