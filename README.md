@@ -18,6 +18,7 @@ Practice real-world UI cloning
 -->Recreate a popular platform using only core web technologies.
 
 📂 Folder Structure:
+
 netflix-clone/
 │
 ├── index.html         # Main HTML structure
