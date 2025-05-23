@@ -28,6 +28,7 @@ netflix-clone/
 ├── script.js          # UI interactivity (e.g. sliders)
 
 └── Images/            # Images and media files
+
     └── assets/
 
 Getting Started
